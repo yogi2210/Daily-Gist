@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Petrana Radulovic",
+      "title": "Netflix’s magic coming-of-age show The Imperfects has a new trailer",
+      "description": "The Imperfects hits Netflix later this year. It follows three twenty-somethings manifesting weird powers after unethical science experiments.",
+      "url": "https://www.polygon.com/23156566/the-imperfects-netflix-release-date-trailer-cast",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DklfifXbUcPbKnC7YtL3oEkFiyU=/207x0:2319x1106/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23610398/Screen_Shot_2022_06_06_at_12.31.16_PM.png",
+      "publishedAt": "2022-06-06T16:42:00Z",
+      "content": "This time, its unethical science experiments!"
+    },
+    {
+      "source": { "id": "medical-news-today", "name": "Medical News Today" },
+      "author": "Katharine Lang",
+      "title": "Are humans 'wired' to hate, and if so, why?",
+      "description": "Are humans 'set up' to hate, and if so why? In this feature, we investigate the neuroscience and psychology of hate, and potential ways to prevent it.",
+      "url": "http://www.medicalnewstoday.com/articles/are-humans-wired-to-hate-and-if-so-why",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/05/thumbs-down-shadow-hate-thumb.jpg",
+      "publishedAt": "2022-05-30T16:20:00Z",
+      "content": "Hate is a powerful negative emotion, but a word that is easy to say. For example, many of us profess to hate public figures, such as politicians. One has only to browse social media to find declarati… [+8039 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Brenna Owen",
+      "title": "Last summer’s B.C., Alberta heat wave was among most extreme since 1960s, study shows",
+      "description": "The study published in the journal Science Advances found just five other heat waves since the 1960s were more extreme, based on how far they surpassed average summertime heat over the previous 10 years",
+      "url": "https://www.theglobeandmail.com/canada/article-last-summers-bc-alberta-heat-wave-was-among-most-extreme-since-1960s/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/ZfvMJL1IwI9rwvNViVYyon9d1OY=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/I4JMN7TOINKQBA6Z4WKNLVLYDE.jpg",
+      "publishedAt": "2022-05-04T23:41:28Z",
+      "content": "People cool off in the frigid Lynn Creek water in North Vancouver, B.C., on June 28, 2021.DARRYL DYCK/The Canadian Press\r\nThe record-breaking heat wave that scorched western North America last June w… [+4358 chars]"
+    },
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": null,
+      "title": "bigscience/T0pp · Hugging Face",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "url": "https://huggingface.co/bigscience/T0pp",
+      "urlToImage": "https://huggingface.co/front/thumbnails/v2-2.png",
+      "publishedAt": "2021-10-18T16:37:20.4140551Z",
+      "content": "Model Description\r\nT0* is a series of encoder-decoder models trained on a large set of different tasks specified in natural language prompts. We convert numerous English supervised datasets into prom… [+11344 chars]"
+    },
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": null,
+      "title": "Opening up a physics simulator for robotics",
+      "description": "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere.",
+      "url": "https://deepmind.com/blog/announcements/mujoco",
+      "urlToImage": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
+      "publishedAt": "2021-10-18T16:07:20.4749314Z",
+      "content": "Advancing research everywhere with the acquisition of MuJoCo\r\nWhen you walk, your feet make contact with the ground. When you write, your fingers make contact with the pen. Physical contacts are what… [+1849 chars]"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Nadia Drake",
+      "title": "How these feuding map-makers shaped our fascination with Mars",
+      "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+      "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+      "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+      "publishedAt": "2021-02-17T14:37:21.3706142Z",
+      "content": null
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": null,
+      "title": "Episode 3: Why War Zones Need Science Too",
+      "description": "Undaunted by Yemen’s civil war, National Geographic explorer Ella Al-Shamahi searches on the island of Socotra for traces of the earliest known humans to leave Africa.",
+      "url": "https://www.nationalgeographic.com/podcasts/overheard/season-5/episode-3-why-war-zones-need-science.html",
+      "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/podcasts/Overheard/season5/episode3/nationalgeographic_2708459.jpg",
+      "publishedAt": "2021-02-17T14:37:20.2759318Z",
+      "content": null
+    }
+  ]
+}
